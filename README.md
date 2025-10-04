@@ -1,8 +1,5 @@
 # Student-Database-Management-System
-C Programing Project 
-<br>
-Author : Prasish Gautam
-<br>
+C Programing Project I
 Date : 3 August, 2025
 <br>
 
